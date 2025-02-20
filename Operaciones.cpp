@@ -16,7 +16,10 @@ int main(){
 	
 	cout << "Resultado Resta: " << a-b <<endl;
 	
-	//Operaciones siguientes
+	//Operacion de multioplicacion
+	
+	cout << "la multiplicacion de a y b " << a*b <<endl;
+	
 	
 	return 0; 
 }
