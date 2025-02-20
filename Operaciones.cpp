@@ -10,7 +10,11 @@ int main(){
 	int a = 9; 
 	int b = 8; 
 	
-	cout << "Resultado: " << a+b <<; 
+	cout << "Resultado Suma: " << a+b <<endl; 
+	
+	//La operacion de resta
+	
+	cout << "Resultado Resta: " << a-b <<endl;
 	
 	//Operaciones siguientes
 	
